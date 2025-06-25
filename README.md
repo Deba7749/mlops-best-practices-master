@@ -201,6 +201,4 @@ To make contribution in this project:
 4. Microsoft Learning
 5. ChatGPT and Bard
 
-### Connect Me🤝:
-[Gmail](karanshingde@gmail.com) | [LinkedLin](https://www.linkedin.com/in/karanshingde) | [Twitter](https://www.twitter.com/kuchbhikaran)
 
